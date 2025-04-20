@@ -1,4 +1,12 @@
-## Hi there 👋
+Hey everyone!
+
+I am really new to the tech space and am interested in building real-world projects with tangible impacts. 
+
+I don't know how or where to start, so I guess I'll just begin and figure it all out from there!!!
+
+🌱 I’m currently learning how to deploy ML algorithms and create projects
+
+🤔 I’m looking for help with coming up with new project ideas.
 
 <!--
 **messiahv5/messiahv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
